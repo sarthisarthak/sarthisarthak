@@ -23,6 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthisarthak&show_icons=true&locale=en" alt="sarthisarthak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthisarthak&" alt="sarthisarthak" /></p>
+[![](https://leetcard.jacoblin.cool/sarthaksarthi?theme=light&font=Inder&ext=heatmap)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthisarthak&label=Profile%20views&color=0e75b6&style=flat" alt="sarthisarthak" /> </p>
